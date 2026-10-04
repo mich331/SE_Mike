@@ -1,2 +1,2 @@
-# Mike-dev
-Combining Cyber security+Python+APIs to push my tech carrier 
+# SE Mike 
+My journey in Computer Science, Software Engineering, Python, AI, and problem solving.
